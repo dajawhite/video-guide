@@ -1,5 +1,6 @@
 # Interactive Video Guide
 Step-by-step interactive video tutorial for easy onboarding.
+
 ![video-guide-screenshot](https://github.com/dajawhite/video-guide/assets/110269361/cc992c9a-d28a-40ee-9245-768e3038cbbe)
 
 ## Setup
