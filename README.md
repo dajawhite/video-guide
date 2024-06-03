@@ -1,6 +1,6 @@
 # Interactive Video Guide
 Step-by-step interactive video tutorial for easy onboarding.
-![hero-animation-screenshot](https://github.com/dajawhite/hero-animation/assets/110269361/b26cfbda-240e-4113-9d1c-359f8cf431f0)
+![video-guide-screenshot](https://github.com/dajawhite/video-guide/assets/110269361/cc992c9a-d28a-40ee-9245-768e3038cbbe)
 
 ## Setup
 1. Clone the repository:
